@@ -154,7 +154,6 @@ print('a[2:2]: ',a[2:2])
 print('a[0:6:2]: ',a[0:6:2])
 '''
 
-
 data=input('data: ')
 list1=data.split(',')
 list2=list1
